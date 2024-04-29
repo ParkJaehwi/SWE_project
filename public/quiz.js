@@ -11,44 +11,44 @@ let test_score = {
 let test_number = 0;
 const test_question = [
   {
-    question: "문제1",
+    question: "3대 영양소는 탄수화물, 단백질, 지방이다.",
     answer: true,
   },
   {
-    question: "문제2",
+    question: "나트륨은 좋지 않기에 아예 섭취하지 않는 것이 좋다.",
+    answer: false,
+  },
+  {
+    question: "단백질을 과도하게 섭취하면 지방으로 변환된다.",
     answer: true,
   },
   {
-    question: "문제3",
+    question: "가슴근육은 팔의 이두 근육에 붙어있다.",
     answer: true,
   },
   {
-    question: "문제4",
+    question: "우리 몸의 이두는 2가지로 나누어져 있고, 삼두는 3가지로 나누어져 있다.",
     answer: true,
   },
   {
-    question: "문제5",
+    question: "우리 몸의 가장 큰 근육은 등 근육이다.",
+    answer: false,
+  },
+  {
+    question: "단백질파우더(프로틴)을 섭취하면 통풍이 온다",
+    answer: false,
+  },
+  {
+    question: "건강한 식단을 해야하는 이유는 손상된 근육의 빠른 회복을 도와 근성장이 일어나도록 하기 위함이다.",
     answer: true,
   },
   {
-    question: "문제6",
+    question: "데드리프트는 등운동이다.",
     answer: false,
   },
   {
-    question: "문제7",
-    answer: false,
-  },
-  {
-    question: "문제8",
-    answer: false,
-  },
-  {
-    question: "문제9",
-    answer: false,
-  },
-  {
-    question: "문제10",
-    answer: false,
+    question: "3대 운동은 몸의 협응근의 발달을 도와 부상 발생의 위험도를 낮춰준다.",
+    answer: true,
   },
 ];
 
